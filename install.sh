@@ -11,6 +11,8 @@ mkdir -p /usr/bin/WADE
 
 wget -O /usr/bin/WADE/shell.sh https://raw.githubusercontent.com/inteltoasters/WADE/refs/heads/main/shell.sh
 
+chmod +x /usr/bin/WADE/shell.sh
+
 echo "Adding the x-session..."
 
 cat <<HEREDOC > /usr/share/xsessions/WADE.desktop
