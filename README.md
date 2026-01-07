@@ -10,4 +10,4 @@
 # Warning:  
 You must have `wine`, `curl`, `wget`, `xrandr`, X11, `grep`, `uniq`, `awk`, `cut` and `zenity` on your system.  
 
-Copyright (c) 2025, inteltoasters
+Copyright (c) 2026, vkh700
